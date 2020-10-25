@@ -1,12 +1,2 @@
 numpy==1.18.2
 pandas==1.0.3
-PyAudio==0.2.11
-python-dateutil==2.8.1
-pyttsx3==2.84
-pytz==2019.3
-six==1.14.0
-SpeechRecognition==3.8.1
-requests==2.22.0
-lxml==4.4.1
-google==2.0.2
-beautifulsoup4==4.8.0
